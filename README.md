@@ -29,3 +29,8 @@
    - [ ] Strategy
    - [ ] Template Method
    - [ ] Visitor
+
+### Additional Resources
+- full list of programming patterns in Java on github: [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
+- comprehensive and funny explanations for a core list of Design Patterns on youtube: [Christopher Okhravi's channel](https://youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+- complete catalog of core Design Patterns with well defined documentations, relevant use cases and suggestive implementations in various programming languages: [refactoring guru catalog](https://refactoring.guru/design-patterns/catalog)
