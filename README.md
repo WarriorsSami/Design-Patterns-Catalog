@@ -24,7 +24,7 @@
        - [x] *Rust*
    - [ ] **Mediator**
    - [ ] **Command**
-   - [ ] **Mementov
+   - [ ] **Memento**
    - [ ] **Observer**
    - [ ] **State**
    - [ ] **Strategy**
