@@ -19,7 +19,7 @@
    - [ ] Proxy
 
 - [ ] Behavioral Patterns
-   - [ ] Chain of Responsability
+   - [ ] Chain of Responsibility
    - [ ] Iterator
    - [ ] Mediator
    - [ ] Command
