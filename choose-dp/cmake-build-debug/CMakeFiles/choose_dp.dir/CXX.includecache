@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/sami/Dev Space/Design-Patterns-Catalog/choose-dp/main.cpp
+iostream
+-
+vector
+-
+string
+-
+experimental/random
+-
+chrono
+-
+thread
+-
+map
+-
+fstream
+-
+sstream
+-
+

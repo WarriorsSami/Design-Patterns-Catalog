@@ -1,3 +1,6 @@
 for dir in */; do
-	mkdir "$dir/Java" "$dir/C#" "$dir/C++" "$dir/Python" "$dir/Typescript" "$dir/Kotlin" "$dir/Golang" "$dir/Rust"
+	echo "$dir"
+	for subdir in $dir/; do
+		echo "	$subdir"
+	done
 done
