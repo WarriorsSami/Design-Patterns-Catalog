@@ -20,7 +20,7 @@
 
 - [ ] Behavioral Patterns
    - [ ] Chain of Responsibility
-   - [ ] Iterator
+   - [ ] Iterator in (Rust)
    - [ ] Mediator
    - [ ] Command
    - [ ] Memento
