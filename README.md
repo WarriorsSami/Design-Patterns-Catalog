@@ -2,33 +2,34 @@
 
 ## List of Design Patterns
 
-- [ ] Creational Patterns
-   - [ ] Singleton
-   - [ ] Builder
-   - [ ] Factory Method
-   - [ ] Abstract Factory
-   - [ ] Prototype
+- [ ] ***Creational Patterns***
+   - [ ] **Singleton**
+   - [ ] **Builder**
+   - [ ] **Factory Method**
+   - [ ] **Abstract Factory**
+   - [ ] **Prototype**
 
-- [ ] Structural Patterns
-   - [ ] Adapter
-   - [ ] Bridge
-   - [ ] Composite
-   - [ ] Decorator
-   - [ ] Facade
-   - [ ] Flyweight
-   - [ ] Proxy
+- [ ] ***Structural Patterns***
+   - [ ] **Adapter**
+   - [ ] **Bridge**
+   - [ ] **Composite**
+   - [ ] **Decorator**
+   - [ ] **Facade**
+   - [ ] **Flyweight**
+   - [ ] **Proxy**
 
-- [ ] Behavioral Patterns
-   - [ ] Chain of Responsibility
-   - [ ] Iterator in (Rust)
-   - [ ] Mediator
-   - [ ] Command
-   - [ ] Memento
-   - [ ] Observer
-   - [ ] State
-   - [ ] Strategy
-   - [ ] Template Method
-   - [ ] Visitor
+- [ ] ***Behavioral Patterns***
+   - [ ] **Chain of Responsibility**
+   - [ ] **Iterator**
+       - [x] *Rust*
+   - [ ] **Mediator**
+   - [ ] **Command**
+   - [ ] **Mementov
+   - [ ] **Observer**
+   - [ ] **State**
+   - [ ] **Strategy**
+   - [ ] **Template Method**
+   - [ ] **Visitor**
 
 ### Additional Resources
 - full list of programming patterns in Java on github: [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
