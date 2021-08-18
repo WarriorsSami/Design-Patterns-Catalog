@@ -7,6 +7,7 @@
    - [ ] **Builder**
    - [ ] **Factory Method**
    - [ ] **Abstract Factory**
+      - [x] Rust
    - [ ] **Prototype**
 
 - [ ] ***Structural Patterns***
