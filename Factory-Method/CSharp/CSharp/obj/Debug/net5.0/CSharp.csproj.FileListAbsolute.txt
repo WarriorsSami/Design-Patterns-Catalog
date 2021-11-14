@@ -1,0 +1,16 @@
+C:\Users\barbu\RiderProjects\Design-Patterns-Catalog\Factory-Method\CSharp\CSharp\bin\Debug\net5.0\CSharp.exe
+C:\Users\barbu\RiderProjects\Design-Patterns-Catalog\Factory-Method\CSharp\CSharp\bin\Debug\net5.0\CSharp.deps.json
+C:\Users\barbu\RiderProjects\Design-Patterns-Catalog\Factory-Method\CSharp\CSharp\bin\Debug\net5.0\CSharp.runtimeconfig.json
+C:\Users\barbu\RiderProjects\Design-Patterns-Catalog\Factory-Method\CSharp\CSharp\bin\Debug\net5.0\CSharp.runtimeconfig.dev.json
+C:\Users\barbu\RiderProjects\Design-Patterns-Catalog\Factory-Method\CSharp\CSharp\bin\Debug\net5.0\CSharp.dll
+C:\Users\barbu\RiderProjects\Design-Patterns-Catalog\Factory-Method\CSharp\CSharp\bin\Debug\net5.0\ref\CSharp.dll
+C:\Users\barbu\RiderProjects\Design-Patterns-Catalog\Factory-Method\CSharp\CSharp\bin\Debug\net5.0\CSharp.pdb
+C:\Users\barbu\RiderProjects\Design-Patterns-Catalog\Factory-Method\CSharp\CSharp\obj\Debug\net5.0\CSharp.csprojAssemblyReference.cache
+C:\Users\barbu\RiderProjects\Design-Patterns-Catalog\Factory-Method\CSharp\CSharp\obj\Debug\net5.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbu\RiderProjects\Design-Patterns-Catalog\Factory-Method\CSharp\CSharp\obj\Debug\net5.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\barbu\RiderProjects\Design-Patterns-Catalog\Factory-Method\CSharp\CSharp\obj\Debug\net5.0\CSharp.AssemblyInfo.cs
+C:\Users\barbu\RiderProjects\Design-Patterns-Catalog\Factory-Method\CSharp\CSharp\obj\Debug\net5.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\barbu\RiderProjects\Design-Patterns-Catalog\Factory-Method\CSharp\CSharp\obj\Debug\net5.0\CSharp.dll
+C:\Users\barbu\RiderProjects\Design-Patterns-Catalog\Factory-Method\CSharp\CSharp\obj\Debug\net5.0\ref\CSharp.dll
+C:\Users\barbu\RiderProjects\Design-Patterns-Catalog\Factory-Method\CSharp\CSharp\obj\Debug\net5.0\CSharp.pdb
+C:\Users\barbu\RiderProjects\Design-Patterns-Catalog\Factory-Method\CSharp\CSharp\obj\Debug\net5.0\CSharp.genruntimeconfig.cache

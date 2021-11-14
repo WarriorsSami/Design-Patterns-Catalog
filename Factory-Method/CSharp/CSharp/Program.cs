@@ -1,12 +1,37 @@
 ﻿using System;
+using CSharp.Creators;
 
 namespace CSharp
 {
-    class Program
+    internal static class Program
     {
-        static void Main(string[] args)
+        private static Dialog DialogBox { get; set; }
+        
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Configure();
+            RunBusiness();
+        }
+
+        private static void Configure()
+        {
+            var os = Environment.OSVersion;
+            var platform = os.Platform;
+            var isWindows = platform is PlatformID.Win32NT or PlatformID.Win32Windows;
+            
+            if (isWindows)
+            {
+                DialogBox = new WindowsDialog();
+            }
+            else
+            {
+                DialogBox = new HtmlDialog();
+            }
+        }
+
+        private static void RunBusiness()
+        {
+            DialogBox.RenderWindow();
         }
     }
 }
